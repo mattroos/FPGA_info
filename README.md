@@ -10,3 +10,4 @@
    - More links available in above Reddit discussion
  - [Would I be able to self learn FPGA programming Zynq 7000 series?](https://forums.xilinx.com/t5/Other-FPGA-Architectures/Would-I-be-able-to-self-learn-FPGA-programming-Zynq-7000-series/m-p/950849)
    - Artix-7 35T Arty FPGA Evaluation Kit, [Arty](https://www.xilinx.com/products/boards-and-kits/arty.html)
+ - The new [Vitis](https://www.xilinx.com/news/press/2019/xilinx-announces-vitis--a-unified-software-platform-unlocking-a-new-design-experience-for-all-developers.html) software platform from Xilinx might be helpful, but I doubt it.
