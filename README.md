@@ -8,3 +8,4 @@
    - [Lattice Semiconductor](http://www.latticesemi.com/icestick)
    - YouTube: [iCE40 (Lattice FPGA): Bitstream Format Reverse Engineered!](https://www.youtube.com/watch?v=u1ZHcSNDQMM)
    - More links available in above Reddit discussion
+ - [Would I be able to self learn FPGA programming Zynq 7000 series?](https://forums.xilinx.com/t5/Other-FPGA-Architectures/Would-I-be-able-to-self-learn-FPGA-programming-Zynq-7000-series/m-p/950849)
